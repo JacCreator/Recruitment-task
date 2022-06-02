@@ -7,7 +7,7 @@ Repository made by: Jakub Kopycki
 Recruitment task - backend internship.
 
 ## Author
-- [@jakubkopycki]([(https://github.com/JacCreator/Recruitment_task/)])
+- [@jakubkopycki](https://github.com/JacCreator/Recruitment_task/)
 
 
 ## General info
